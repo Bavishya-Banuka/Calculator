@@ -1,0 +1,26 @@
+.text-center {
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    
+  }
+  
+  .bg-pink {
+    background-color: deeppink;
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .item-center {
+    align-items: center;
+  }
